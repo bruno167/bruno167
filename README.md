@@ -5,7 +5,7 @@ I'm a software enginner 👩‍💻<br>
 Living in São Paulo 🌃
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167&layout=compact)
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

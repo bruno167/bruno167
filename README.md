@@ -1,4 +1,4 @@
-# Hi There !
+# Hi There ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-texeira-4612b0175/)
 ### My name is Bruno,
 I'm a software enginner 👩‍💻<br>

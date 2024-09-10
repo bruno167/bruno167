@@ -33,4 +33,4 @@
 </p>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=bruno167&theme=tokyonight&show_icons=true)](https://github.com/bruno167/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=bruno167&theme=radical&show_icons=true)](https://github.com/bruno167/github-readme-stats)

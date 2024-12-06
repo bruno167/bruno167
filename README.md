@@ -38,5 +38,4 @@
 
 ### ⚙️ GitHub Analytics
 
-[![bruno167](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167&layout=compact)](https://github.com/bruno167/github-readme-stats)
-
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno167&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/> </div>

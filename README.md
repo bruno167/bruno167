@@ -27,32 +27,10 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=bruno167&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Top Languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=bruno167&theme=dark&hide_border=false"
-        alt="Github Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno167&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Top Languages"
+/>
 
 
 

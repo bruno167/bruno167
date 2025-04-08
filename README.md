@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/bruno167/bruno167/output/snake.svg" alt="Snake animation" />
+
+###

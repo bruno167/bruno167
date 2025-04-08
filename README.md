@@ -1,6 +1,6 @@
 # Hi There ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-<h2 align="left">My name is Bruno, I'm a software enginner, living in São Paulo 🌃</h2>
+<h2 align="center">My name is Bruno, I'm a software enginner, living in São Paulo 🌃</h2>
 
 ###
 
@@ -67,15 +67,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno167/bruno167/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno167/bruno167/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bruno167/bruno167/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
